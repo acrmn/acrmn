@@ -18,7 +18,7 @@ struct Carmen {
 - Scrum Master - PSMI
 - EFSET C2 Proficient in English
 
-You can see more infomation about my credentials on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/crmnalonso)
+You can see more infomation about my credentials on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/crmnalonso)
 
 <h3>Interests</h3>
 
