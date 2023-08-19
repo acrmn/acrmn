@@ -29,9 +29,14 @@ You can see more infomation about my credentials on [![Linkedin](https://img.shi
 
 <h3>Current projects</h3>
 
-![StuddyAssistant-logo-app](https://github.com/acrmn/acrmn/assets/141274179/d6cc1af4-f046-498d-b345-47378d82c929)
 
-![Caard-logo-app](https://github.com/acrmn/acrmn/assets/141274179/40c862e0-d80e-4913-872c-a7cc7470304b)
+<p align="left">
+  <img width="100" height="100" alt="Study Assistant App" src="https://github.com/acrmn/acrmn/assets/141274179/d6cc1af4-f046-498d-b345-47378d82c929">
+</p>
+
+<p align="left">
+  <img width="100" height="100" alt="Caard App" src="https://github.com/acrmn/acrmn/assets/141274179/40c862e0-d80e-4913-872c-a7cc7470304b">
+</p>
 
 
 <!---
