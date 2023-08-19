@@ -11,7 +11,7 @@ struct Carmen {
 }
 ```
 
-<h3>Achievements</h3>
+<h3>My achievements</h3>
 
 - Computer Engineer Graduate of the University of Salamanca
 - iOS & Swift - The Complete iOS App Development Bootcamp Graduate
@@ -20,14 +20,14 @@ struct Carmen {
 
 You can see more infomation about my credentials on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/crmnalonso)
 
-<h3>Interests</h3>
+<h3>Some of my interests</h3>
 
 <p> :rugby_football: Agile </p>
 <p> :art: UI & UX Design </p>
 <p> :video_game: Games </p>
 <p> :jigsaw: Puzzles </p>
 
-<h3>Projects</h3>
+<h3>Current projects</h3>
 
 
 
