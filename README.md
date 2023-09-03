@@ -5,6 +5,8 @@
 
 ```swift
 struct Carmen {
+  var pronouns = "she/her"
+  var nickname = "Alonso"
   var location = "Salamanca"
   var languages = ["Spanish", "English", "Swift", "Java"]
   var tools = ["Xcode", "Eclipse", "IntelliJ", "Git", "Cocoapods", "Jenkins", "SonarQube", "SoapUI", "Postman"]
@@ -29,17 +31,18 @@ You can see more infomation about my credentials on [![Linkedin](https://img.shi
 
 <h3>Current projects</h3>
 
-<picture>
-  <img  width="100" alt="Study Assistant App" src="https://github.com/acrmn/acrmn/assets/141274179/d6cc1af4-f046-498d-b345-47378d82c929">
-</picture>
-
-[Study Assistant](https://www.google.com)
 
 <picture>
-  <img  width="100" alt="Caard App" src="https://github.com/acrmn/acrmn/assets/141274179/40c862e0-d80e-4913-872c-a7cc7470304b">
+  <img  width="100" alt="Study Assistant App Logo" src="https://github.com/acrmn/acrmn/assets/141274179/d6cc1af4-f046-498d-b345-47378d82c929">
 </picture>
 
-[Caard](https://www.google.com)
+[Study Assistant](https://github.com/acrmn/StudyAssistant)
+
+<picture>
+  <img  width="100" alt="Caard App Logo" src="https://github.com/acrmn/acrmn/assets/141274179/40c862e0-d80e-4913-872c-a7cc7470304b">
+</picture>
+
+[Caard](https://github.com/acrmn/Caard)
 
 
 <!---
